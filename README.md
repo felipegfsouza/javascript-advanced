@@ -37,9 +37,6 @@
 
 ## Praticar
 
-- treino de futebol 
-- treino de artes marciais 
-
 * Conceitos e fundamentos
 * Prática
 * Revisão
